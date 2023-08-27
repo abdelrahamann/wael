@@ -1,0 +1,30 @@
+  nav{
+    background-color: #f8f9fa;
+    padding: 15px;
+    
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav .nav-link {
+    text-decoration: none;
+    color: hwb(0 49% 43%);
+    padding: 5px;
+    font-size: 20px;
+  }
+  
+  nav .nav-link:hover {
+    color: hsl(195, 40%, 55%);
+  }
+
+
+  

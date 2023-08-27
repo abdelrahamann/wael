@@ -1,0 +1,15 @@
+
+.btn {
+    color: hsl(195, 51%, 58%);
+    padding: 5px 10px;
+    border: 1px solid hsl(225, 68%, 53%);
+    cursor: pointer;
+    background-color: aliceblue;
+}
+.btn:hover{
+    color: hsl(225, 68%, 53%);
+}
+.container-data{
+    padding-top: 100px;
+    padding-left: 775px;
+}

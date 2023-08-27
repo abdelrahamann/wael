@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.card {
+    width: calc(80.33% - 20px);
+    margin: 10px;
+    border-radius: 10px;
+    position: relative;
+}
+
+
+
+.equal-height {
+    display: flex;
+}
+
+.equal-height .card {
+    height: 100%;
+
+}
+
+.equal-height .card-img-top {
+    object-fit: cover;
+    height: 250px;
+}
+
+.card-title{
+    color: hsl(181, 30%, 59%);
+}
+.card-price{
+    color: #999090;
+}
+
+
+.card .btn{
+    color: #9bc4dd;
+    padding: 5px 10px;
+    border: 1px solid hsl(246, 53%, 38%);
+    cursor: pointer;
+    background-color: aliceblue;
+  }
+ 
+  .card .btn:hover {
+    color: #007bff;
+  }

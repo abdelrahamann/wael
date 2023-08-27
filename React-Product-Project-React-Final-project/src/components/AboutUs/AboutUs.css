@@ -1,0 +1,15 @@
+.about-container {
+    padding: 40px;
+}
+
+.about-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about-text {
+  text-align: center;
+  padding-left: 600px;
+  padding-top: 150px;
+}
